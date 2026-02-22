@@ -301,7 +301,7 @@ body{
     gap: 10px;
 }  
 .city__container h1{
-    margin-top: 80px;
+    margin-bottom: 80px;
 }
 .poster{
     position: relative;
